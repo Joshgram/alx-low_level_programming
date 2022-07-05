@@ -1,6 +1,7 @@
-#include "Joshgram.h"
+#include "main.h"
+
 /**
- * main - Entry point
+ * main - prints putchar
  *
  * Return: Always 0 (Success)
  */
